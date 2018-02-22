@@ -1,0 +1,10 @@
+out/*
+.idea/*
+5.OnlineInternship/*
+downoland/*
+*.jar
+*.properties
+*.iml
+*.xml
+*.info
+*.log
